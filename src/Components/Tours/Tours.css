@@ -1,0 +1,14 @@
+img{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    border-radius: 9px;
+ }
+ h3{
+     font-size: 2rem;
+     color: #e8d1d1;
+ }
+
+ * {
+     font-family: 'Shantell Sans', cursive;
+ }
